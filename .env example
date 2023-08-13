@@ -1,0 +1,7 @@
+DB_USERNAME=root
+DB_PASSWORD=root
+DB_PORTS=8081
+MG_PORTS=27017
+MONGO_URI=mongodb://root:root@localhost:27017/
+MONGO_URI_POPULATE=mongodb://root:root@localhost:27017/store?authSource=admin
+
